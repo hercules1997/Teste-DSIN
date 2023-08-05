@@ -19,5 +19,5 @@ function calcularSalario(valorPorHora, diasTrabalhado, valorPorDia) {
 const salarioLiquido = calcularSalario(horasPorDia, precoHora, diasTrabalhados);
 console.log("O salário líquido é de: R$ " + salarioLiquido.toFixed(2));
 
-// // O salário bruto é de: R$  2640.00
-// // O salário líquido é de: R$ 2085.60
+// O salário bruto é de: R$  2640.00
+// O salário líquido é de: R$ 2085.60
